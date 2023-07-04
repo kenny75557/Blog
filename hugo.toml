@@ -1,0 +1,45 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Heliart's Blog"
+theme = "PaperMod"
+[params]
+  ShowBreadCrumbs= true
+  ShowReadingTime= true
+  ShowShareButtons= true
+  ShowPostNavLinks= true
+  ShareButtons=["linkedin", "twitter", "facebook"]
+  [[params.socialIcons]]
+    name= 'linkedin'
+    url="https://www.linkedin.com/in/heliart/"
+  [[params.socialIcons]]
+    name= 'instagram'
+    url="https://www.instagram.com/heliart_sho/"
+  [[params.socialIcons]]
+    name= 'twitter'
+    url="https://twitter.com/Heliart_sho/"
+  
+  [params.cover]
+    linkFullImages = true
+  [params.homeInfoParams]
+    title = "ʕ•́ᴥ•̀ʔっ♡♡♡"
+    content="A newbie in NLP, the content here may not be professional or interesting."
+
+[menu]
+[[menu.main]]
+  identifier= 'categories'
+  name= 'categories'
+  pageRef="/categories/"
+  weight=10
+[[menu.main]]
+  identifier='tags'
+  name='tags'
+  pageRef='/tags/'
+  weight=20
+[[menu.main]]
+  name='archives'
+  url= '/archives/'
+  weight=25
+[[menu.main]]
+  name='About me'
+  url= '/About/'
+  weight=30
