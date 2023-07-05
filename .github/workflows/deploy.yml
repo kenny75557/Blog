@@ -33,10 +33,10 @@ jobs:
         with:
           node-version: 16
 
-      - name: 📦 Install dependencies
-        run: |
-          cd themes/PaperMod
-          npm ci
+#       - name: 📦 Install dependencies
+#         run: |
+#           cd themes/PaperMod
+#           npm ci
 
       - name: 🏗️ Build CSS
         run: npm run css:build
