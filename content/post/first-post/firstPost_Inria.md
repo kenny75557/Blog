@@ -160,9 +160,9 @@ GPT-3 text-davinci-003
 ### 後記
 回到現在，在前幾個月經歷了:
 
-* 當個兵出來發現論文上 ACL (都跟朋友說我是：A real imposter, no syndrome.)、
+* 當個兵出來發現論文上 ACL (都跟朋友說我是：A real imposter, no syndrome.)
 
-* 結訓出來求職（時機歹歹的科技業寒冬，過程有 frustrated 到；但不少機會沒能拿下確實是自己玩砸了Hehe）、
+* 結訓出來求職（時機歹歹的科技業寒冬，過程有 frustrated 到；但不少機會沒能拿下確實是自己玩砸了Hehe）
 
 * 訂完去多倫多的機票隔一小時拿到 Offer
 
